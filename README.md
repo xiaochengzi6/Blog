@@ -7,7 +7,6 @@
 - [JavaScript](https://github.com/xiaochengzi6/Blog/projects/1)
 - [React 及其生态](https://github.com/xiaochengzi6/Blog/projects/2)
 - [构建工具-前端](https://github.com/xiaochengzi6/Blog/projects/3)
-- [奇怪的想法](https://github.com/xiaochengzi6/Blog/projects/4)
 - [网络](https://github.com/xiaochengzi6/Blog/projects/5)
 
 > 部分内容可以在项目中看到有完整 demo
