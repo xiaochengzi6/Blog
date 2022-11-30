@@ -9,5 +9,6 @@
 - [构建工具-前端](https://github.com/xiaochengzi6/Blog/projects/3)
 - [网络](https://github.com/xiaochengzi6/Blog/projects/5)
 - [css](https://github.com/xiaochengzi6/Blog/projects/6)
+- [测试](https://github.com/xiaochengzi6/Blog/projects/7)
 
 > 部分内容可以在项目中看到有完整 demo
